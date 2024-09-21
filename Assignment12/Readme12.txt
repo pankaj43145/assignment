@@ -1,0 +1,1 @@
+Please install node modules in both client and sever and then replace the mongodb url in src/server.js and then node server.js for server and npx react-native run-android for client.
